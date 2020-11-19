@@ -1,0 +1,5 @@
+counting_elements.py
+.vscode
+__pycache__
+data_classes/__pycache__
+netflix-data
